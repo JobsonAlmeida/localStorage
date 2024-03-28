@@ -8,7 +8,7 @@ The purpose of this project is ask the user's name and save it to localStorage s
 
 The user can log out by clicking on "Sair" button. Through this action the username saved in the localStorage is removed. 
 
-It was also exercised how to manipulate DOM elements,as DOM elements shown in the screen are differente depeding on whether the user is logged in or not. 
+It was also exercised how to manipulate DOM elements, as DOM elements shown in the screen are differente depeding on whether the user is logged in or not. 
 
 <p align="center" >
     <img src="./images/screenToLogin.png">
