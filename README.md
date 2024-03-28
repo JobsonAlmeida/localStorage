@@ -18,5 +18,5 @@ It was also exercised how to manipulate DOM elements,as DOM elements shown in th
 <br>
 <p align="center">
     <img src="./images/loggedIn.png">
- <p align="center" style="color:blue" >Image 2: Screen after logging in to the system</p>
+ <p align="center">Image 2: Screen after logging in to the system</p>
 </p>
